@@ -1,3 +1,6 @@
+
+
+
 // navbar fixed
 window.onscroll = function(){
   const header = document.querySelector('header');
@@ -28,3 +31,6 @@ window.addEventListener('click', function (e) {
     navbarLink.classList.add('hidden');
   }
 });
+
+
+
